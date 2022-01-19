@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <tytle># JavaScript-typeof-integer-float</tytle>
+ 
+</head>
+<body>
+	<h1>JavaScript parse Integer and Float</h1>	
+   <script>
+   	var num= "20";
+   	num= parseInt(num);
+   	console.log(typeof(num));
+   </script>
+   <script>
+   	var num= "20.5";
+   	num= parseFloat(num);
+   	console.log(typeof(num));
+   </script>
+	</body>
+  <body>
+</html>
